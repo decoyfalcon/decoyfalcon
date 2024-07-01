@@ -27,4 +27,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M"
-          IGNORED_REPOS: "basic"
+          IGNORED_REPOS: "basic, thisisprobablyabadidea"
